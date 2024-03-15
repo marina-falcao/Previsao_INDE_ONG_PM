@@ -13,7 +13,7 @@ Constam nesse repositório:
 * Dataset original enviado pela PM.
 * Dicionário de dados da PM.
 * Relatórios de dados da PM - 2020, 2021, 2022
-* Dataset reorganizado e utilizado para as análises / modelo.
 * Notebook de tratamento do dataset original.
+* Dataset tratado (utilizado para as análises / modelo).
 * Código da aplicação do modelo em streamlit.
 * Dashboard em Power BI. (A SER INSERIDO)
