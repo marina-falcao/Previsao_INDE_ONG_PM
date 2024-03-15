@@ -1,4 +1,4 @@
-# Previsão do INDE para a ONG Passos Mágicos
+# Previsão do INDE - ONG Passos Mágicos
 ## Descrição
 Projeto de parceria entre a FIAP e a ONG Passos Mágicos. Criação de modelo de previsão do índice de desenvolvimento dos alunos da ONG Passos Mágicos, junto com dashboard interativo para análise facilitada dos indicadores dos alunos da ONG.
 ## A Passos Mágicos
