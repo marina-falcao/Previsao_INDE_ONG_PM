@@ -21,6 +21,7 @@ Constam nesse repositório:
 * Com VS Code (ou outra IDE), instalar os componentes do arquivo _requirements.txt_.
 * Rodar o código da aplicação do modelo em streamlit (arquivo _app.py_) utilizando o dataset resultante do notebook _Tratamento de dados_PM_ (ou o arquivo _Pm_modelo_).
 * Com essas operações, o modelo estará pronto para uso.
+
 **Dashboard**
 * Rodar o notebook _PM_despivot_, usando o dataset _PM_modelo_ como base.
 * Utilizar os datasets _PM_modelo_ e _PM_indices_ para atualizar as visões. 
