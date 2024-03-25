@@ -15,6 +15,7 @@ Constam nesse repositório:
 * Datasets tratados (utilizados para as análises PBI / modelo).
 * Código da aplicação do modelo em streamlit.
 * Dashboard em Power BI.
+* Link para o pitch do projeto no Youtube: https://www.youtube.com/watch?v=lul5tUmWrN0 
 ## Como utilizar?
 **Modelo**
 * Rodar o notebook _Tratamento de dados_PM_ utilizando o dataset _df_original_ para leitura.
